@@ -65,15 +65,15 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <main className={styles.main}>
-        <h1 className={styles.title}>Welcome to $PUNK LP Staking!</h1>
+        <h1 className={styles.title}>LP Farming Has Ended!</h1>
 
         <p className={styles.description}>
-          Add liquidity to EXP/PUNK on EggSwap, stake your LP tokens here to earn $PUNK!
+          To Unstake LP tokens, input the amount of LP tokens you wish to unstake, then click Unstake!
           <br>
         </br>
-        LP Token Address - 0x4db7b04E2BcD7FA41Bdf9DB0259DA167237C764F
+        You may continue farming on Eggswap by depositing your LP Tokens to earn $EGG!
         <br></br>
-        To Unstake LP, input the amount of LP tokens you wish to unstake, then click Unstake!
+        Any pending $PUNK you see below can NOT be claimed.  The rewards pool is now empty. 
 
         </p>
 
